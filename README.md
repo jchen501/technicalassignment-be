@@ -1,3 +1,7 @@
 Run technicalassignment-be before technicalassignment-fe
-To run type: 
-  - node index.js
+In the project directory, install all the dependency:
+### `npm install`
+
+In the project directory, you can run:
+
+### `node index.js`
